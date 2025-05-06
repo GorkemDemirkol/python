@@ -1,0 +1,83 @@
+<library>
+    <authors>
+        <author>
+            <name>Leo Tolstoy</name>
+        </author>
+        <author>
+            <name>George Orwell</name>
+        </author>
+        <author>
+            <name>Harper Lee</name>
+        </author>
+        <author>
+            <name>Fyodor Dostoyevski</name>
+        </author>
+        <author>
+            <name>Antoine de Saint-Exup&#233;ry</name>
+        </author>
+        <author>
+            <name>J.K. Rowling</name>
+        </author>
+        <author>
+            <name>Charles Dickens</name>
+        </author>
+        <author>
+            <name>Gabriel Garc&#237;a M&#225;rquez</name>
+        </author>
+        <author>
+            <name>Ray Bradbury</name>
+        </author>
+        <author>
+            <name>Can Yucel</name>
+        </author>
+        <author>
+            <name>sabahatin ali</name>
+        </author>
+    </authors>
+    <books>
+        <book>
+            <title>Sava&#351; ve Bar&#305;&#351;</title>
+            <author>Leo Tolstoy</author>
+        </book>
+        <book>
+            <title>1984</title>
+            <author>George Orwell</author>
+        </book>
+        <book>
+            <title>B&#252;lb&#252;l&#252; &#214;ld&#252;rmek</title>
+            <author>Harper Lee</author>
+        </book>
+        <book>
+            <title>Su&#231; ve Ceza</title>
+            <author>Fyodor Dostoyevski</author>
+        </book>
+        <book>
+            <title>K&#252;&#231;&#252;k Prens</title>
+            <author>Antoine de Saint-Exup&#233;ry</author>
+        </book>
+        <book>
+            <title>Harry Potter ve Felsefe Ta&#351;&#305;</title>
+            <author>J.K. Rowling</author>
+        </book>
+        <book>
+            <title>&#304;ki &#350;ehrin Hikayesi</title>
+            <author>Charles Dickens</author>
+        </book>
+        <book>
+            <title>Y&#252;zy&#305;ll&#305;k Yaln&#305;zl&#305;k</title>
+            <author>Gabriel Garc&#237;a M&#225;rquez</author>
+        </book>
+        <book>
+            <title>Fahrenheit 451</title>
+            <author>Ray Bradbury</author>
+        </book>
+        <book>
+            <title>Yaln&#305;z&#305;m</title>
+            <author>Can Yucel</author>
+        </book>
+        <book>
+            <title>K&#252;rk Mantolu Madona</title>
+            <author>sabahatin ali</author>
+        </book>
+    </books>
+</library>

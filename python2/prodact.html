@@ -1,0 +1,43 @@
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ürün Kayıt</title>
+    <style>
+        #txt {
+            width: 737px;
+            height: 50px;
+            font-size: 25px;
+            display: flex;
+            margin-bottom: 20px;
+
+        }
+
+        #dis {
+            width: 737px;
+            background-color: rgb(66, 64, 64);
+            color: #efefef;
+            border-radius: 10px;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <div id="dis">
+            <h1>Ürün Kayıt ekranı</h1>
+        </div>
+        <form enctype="multipart/form-data" action="show.py">
+            <input id="txt" type="text" name="pname" placeholder="ürün adı">
+            <input id="txt" type="file" name="filename" placeholder="Fotoğraf Seç">
+            <textarea cols="100" rows="20" name="description" id=""></textarea>
+            <input id="txt" type="submit" name="sub" value="Ürün Kaydet">
+        </form>
+
+    </center>
+</body>
